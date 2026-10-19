@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /deploy/
+Disallow: /image/originaux/
+
+Sitemap: https://lamour-nails.fr/sitemap.xml
